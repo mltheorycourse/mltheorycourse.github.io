@@ -70,6 +70,8 @@ Can be found on [eClass](https://eclass.srv.ualberta.ca/course/view.php?id=76687
 ## Lectures Notes
 The lecture notes for this year's class are under the heading **LECTURE NOTES**.
 
+## Related Courses
+[CPSC 532D at UBC](https://www.cs.ubc.ca/~dsuth/532D/25w1/)
 
 <!-- ## Flipped Class
 For the first three weeks, as mentioned above, we will follow a flipped class format:
